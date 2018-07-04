@@ -1,0 +1,37 @@
+body{
+    background-color: #eee;
+}
+
+@-ms-viewport{
+    width: device-width;
+}
+
+/* search styles */
+
+p.or{
+    text-align: center;
+    font-weight: 100;
+    opacity: 0.5;
+}
+
+select {
+    display: inline !important;
+}
+
+.ddls{
+    padding: 2px 10px !important;
+}
+
+.ddls > label {
+    font-weight: 600;
+    font-size: 16px;
+    color:#999;
+}
+
+#icoLocation {
+    font-size: 20px;
+}
+
+.container {
+    width: 95% !important;
+}
